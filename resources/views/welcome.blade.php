@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bootstrap UI</title>
+    <title>Hourly IQ exam</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
 
 <div class="container d-flex justify-content-center align-items-center vh-100">
     <div class="card p-4 shadow-lg">
-        <h4 class="text-center mb-3">Date Picker & Table</h4>
+        <h4 class="text-center mb-3">Jobs List</h4>
 
         <div class="d-flex gap-2 justify-content-center">
             <input type="date" class="form-control w-auto" id="dateInput">
